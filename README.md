@@ -8,7 +8,7 @@ O objetivo principal deste projeto foi estruturar e analisar os dados de vendas,
 
 # Como este repositório está estruturado
 
-- Veja os dados utilizados [Dataset]([https://github.com/mayajsv/Dashboard_Sales_Performance/blob/main/Coffee%20Sales.xlsx](https://github.com/mayajsv/AnalisesVendas_SQL/blob/main/Dataset.zip)).
+- Veja os dados utilizados [Dataset](https://github.com/mayajsv/AnalisesVendas_SQL/blob/main/Dataset.zip).
 
 # Tecnologias
 
